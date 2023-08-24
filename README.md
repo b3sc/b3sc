@@ -1,8 +1,9 @@
-<p align="center">
+
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/b3sc/b3sc/main/assets/headerGithub.gif" alt="Hi, I'm Bruno">
 </p>
 
-<br/>
+<br/>-->
 
 <p align="center">
   <img src="https://github.com/b3sc/b3sc/blob/main/assets/sonicComputer.gif?raw=true" width="70" alt="Sonic the Hedgehog">
@@ -40,4 +41,4 @@
 
 ##
 
-![Profile views](https://gpvc.arturio.dev/b3sc)
+<!--![Profile views](https://gpvc.arturio.dev/b3sc)-->
